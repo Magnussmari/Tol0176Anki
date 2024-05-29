@@ -1,0 +1,31 @@
+# Tölfræði Anki Flashcards
+
+Þetta verkefni inniheldur Python kóða til að búa til Anki flashcards fyrir tölfræðinám. Kóðinn er hannaður til að keyra í Google Colab og hjálpar nemendum að búa til sína eigin stokka af flashcards fyrir undirbúning undir próf.
+
+## Notkun
+
+1. Farðu á [Google Colab](https://colab.research.google.com/).
+2. Opnaðu Colab skrána úr þessu verkefni.
+3. Keyrðu kóðann til að búa til og vista Anki deck sem `.apkg` skrá.
+4. Hladdu niður `.apkg` skránni og flyttu hana inn í Anki.
+
+## Anki
+
+Anki er opið forrit sem hjálpar við að læra með því að nota flashcards. Það er fáanlegt fyrir tölvur og síma. Þú getur halað niður Anki frá [official website](https://apps.ankiweb.net/).
+
+## Athugasemdir
+
+- Kortin í þessu verkefni eru ekki öll yfirfarin og gætu innihaldið villur.
+- Þú getur notað kóðann til að búa til og breyta þínum eigin flashcards.
+- Engin ábyrgð er tekin á innihaldi kortanna.
+
+## Markmið
+
+Markmiðið með þessu verkefni er að gefa nemendum verkfæri til að búa til og nýta eigin flashcards fyrir tölfræðinám. Það er ætlað að vera opið öllum og hvetja til frekari notkunar og aðlögunar.
+
+## Leyfi, sjá licence 
+[MIT Licence](LICENSE)
+
+Þetta verkefni er gefið út undir MIT leyfi. MIT leyfið er mjög sveigjanlegt og leyfir þér að nota, afrita, breyta og dreifa forritinu eins og þú vilt, með því skilyrði að höfundarréttur og heimildarbréf fylgi öllum afritum. Þetta þýðir að þú getur frjálst notað efnið í eigin verkefni og jafnvel í viðskiptalegum tilgangi.
+
+Það er mikilvægt að hafa í huga að MIT leyfið veitir enga ábyrgð á forritinu. Það er afhent "eins og það er", og höfundarnir taka enga ábyrgð á mögulegum skaða eða vandamálum sem gætu komið upp við notkun þess.
