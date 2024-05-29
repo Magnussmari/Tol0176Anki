@@ -5,7 +5,7 @@
 ## Notkun
 
 1. Farðu á [Google Colab](https://colab.research.google.com/).
-2. Opnaðu Colab skrána úr þessu verkefni.
+2. Opnaðu Colab skrána úr þessu verkefni, er í main Töl0176ANKI.ipynp
 3. Keyrðu kóðann til að búa til og vista Anki deck sem `.apkg` skrá.
 4. Hladdu niður `.apkg` skránni og flyttu hana inn í Anki.
 
@@ -17,7 +17,7 @@ Anki er opið forrit sem hjálpar við að læra með því að nota flashcards.
 
 - Kortin í þessu verkefni eru ekki öll yfirfarin og gætu innihaldið villur.
 - Þú getur notað kóðann til að búa til og breyta þínum eigin flashcards.
-- Engin ábyrgð er tekin á innihaldi kortanna.
+- Engin ábyrgð er tekin á innihaldi kortanna. Sjá MIT leyfi
 
 ## Markmið
 
